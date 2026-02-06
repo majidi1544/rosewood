@@ -1,0 +1,72 @@
+/*!* assets/css/images-fix.css *!*/
+
+/*!* عکس‌های بنر *!*/
+/*.main-banner .right-image img {*/
+/*    width: 100%;*/
+/*    height: auto;*/
+/*    max-height: 500px;*/
+/*    object-fit: cover;*/
+/*    border-radius: 15px;*/
+/*    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);*/
+/*}*/
+
+/*!* عکس درباره ما *!*/
+/*.about-image-wrapper .image-frame img {*/
+/*    width: 100%;*/
+/*    height: 400px;*/
+/*    object-fit: cover;*/
+/*    border-radius: 15px;*/
+/*}*/
+
+/*!* عکس خدمات *!*/
+/*.our-services .left-image img {*/
+/*    width: 100%;*/
+/*    height: 400px;*/
+/*    object-fit: cover;*/
+/*    border-radius: 15px;*/
+/*    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);*/
+/*}*/
+
+/*!* عکس نمونه کارها *!*/
+/*.portfolio-image img {*/
+/*    width: 100%;*/
+/*    height: 250px;*/
+/*    object-fit: cover;*/
+/*    border-radius: 10px;*/
+/*}*/
+
+/*!* عکس مقالات *!*/
+/*.article-image img,*/
+/*.recent-image img {*/
+/*    width: 100%;*/
+/*    height: 200px;*/
+/*    object-fit: cover;*/
+/*}*/
+
+/*!* بکگراندهای حرفه‌ای *!*/
+/*#top {*/
+/*    background: linear-gradient(135deg, #2A1C16 0%, #3A261E 100%) !important;*/
+/*    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400"><path fill="%235D4037" fill-opacity="0.1" d="M0 0h400v400H0z"/><path fill="none" stroke="%23A1887F" stroke-width="1" d="M0 0h400v400H0z"/></svg>') !important;*/
+/*}*/
+
+/*#about {*/
+/*    background: linear-gradient(135deg, #F8F4F0 0%, #EFE6DC 100%) !important;*/
+/*}*/
+
+/*#services {*/
+/*    background: linear-gradient(rgba(43,29,23,0.9), rgba(54,38,30,0.9)) !important;*/
+/*    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><path fill="%23D2691E" fill-opacity="0.05" d="M0 0h100v100H0z"/><path d="M0 50L50 0L100 50L50 100Z" fill="none" stroke="%23D2691E" stroke-opacity="0.1" stroke-width="1"/></svg>') !important;*/
+/*}*/
+
+/*#portfolio {*/
+/*    background: linear-gradient(135deg, #FFFFFF 0%, #F3EEE7 100%) !important;*/
+/*}*/
+
+/*#blog {*/
+/*    background: linear-gradient(135deg, #FCFAF7 0%, #F5F0E9 100%) !important;*/
+/*}*/
+
+/*#contact {*/
+/*    background: linear-gradient(135deg, #2b1d17 0%, #3a261e 100%) !important;*/
+/*    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><path fill="%238B4513" fill-opacity="0.05" d="M0 0h200v200H0z"/><path d="M100 0C44.77 0 0 44.77 0 100s44.77 100 100 100 100-44.77 100-100S155.23 0 100 0z" fill="none" stroke="%238B4513" stroke-opacity="0.1" stroke-width="2"/></svg>') !important;*/
+/*}*/
